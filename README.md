@@ -25,3 +25,9 @@ Mini Curso com Aulas voltada para aprender como dominar a API do Facebook na V 2
  > E para finalizar vamos analizar a documentação do Facebook Developer para aprender quais informaçações podemos solicitar do usuario ao pedir para ele se cadastrar em nosso sistema.
  
  >[Material Utilizado neste aula](https://github.com/ASNascimento/Iniciando-Com-API-do-Facebook/tree/master/aula03)
+
+
+### [Aula 04 - Iniciando Com API do Facebook - Solicitando e Pegando Dados Avançados do Usuários](https://www.youtube.com/watch?v=8HpTCrOjU9A&list=PLjnUBzvAbOCJWseWxMX_WbvDpqYIdv9qE&index=4)
+ >Neste vídeo é mostrado como solicitar dados avançados do usuário para ser utilizado pelo App junto com API do facebook.
+ 
+ >[Material Utilizado neste aula](https://github.com/ASNascimento/Iniciando-Com-API-do-Facebook/tree/master/aula04)
