@@ -31,3 +31,8 @@ Mini Curso com Aulas voltada para aprender como dominar a API do Facebook na V 2
  >Neste vídeo é mostrado como solicitar dados avançados do usuário para ser utilizado pelo App junto com API do facebook.
  
  >[Material Utilizado neste aula](https://github.com/ASNascimento/Iniciando-Com-API-do-Facebook/tree/master/aula04)
+ 
+ ### [05 - Iniciando Com API do Facebook - Pegando Foto e Capa do Perfil do Usuario](https://www.youtube.com/watch?v=UstZcxR2KKs&index=5&list=PLjnUBzvAbOCJWseWxMX_WbvDpqYIdv9qE)
+ >Neste vídeo é solicitado para o usuario a permissao de direito de pegar a foto do perfil e sua capa para que o APP possa manipular as imagens.
+ 
+ >[Material Utilizado neste aula](https://github.com/ASNascimento/Iniciando-Com-API-do-Facebook/tree/master/aula05)
