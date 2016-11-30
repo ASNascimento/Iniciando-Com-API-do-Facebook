@@ -10,6 +10,7 @@ try {
         $accessToken = $_SESSION['facebook_access_token'];
     } else {
         $accessToken = $Login->getAccessToken();
+		var_dump($accessToken);
     }
 } catch (Facebook\Exceptions\FacebookResponseException $e) {
     echo 'Graph returned an error: ' . $e->getMessage();
@@ -73,10 +74,10 @@ if (isset($accessToken)) {
     endif;
 
     echo '<a href="?sair=true">Sair</a>';
-    var_dump($_SESSION);
+
 }else {
-    $loginUrl = $Login->getLoginUrl('http://localhost/fb/aula04/index.php', $permissions);
+    $loginUrl = $Login->getLoginUrl('http://localhost/html/fb/aula04/', $permissions);
     echo '<a href="' . $loginUrl . '">Entrar com facebook</a>';
     echo $accessToken;
-    var_dump($_SESSION);
+	var_dump($_SESSION);
 }
